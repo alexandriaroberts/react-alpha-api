@@ -3,9 +3,10 @@ import { useTheme } from '../context/ThemeContext';
 
 interface TableProps {
   data: any;
+  symbol: string;
 }
 
-const Table: React.FC<TableProps> = ({ data }) => {
+const Table: React.FC<TableProps> = ({ data, symbol }) => {
   const { theme } = useTheme();
 
   if (!data || !data['Time Series (Daily)']) {
