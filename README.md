@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This project is a stock data application that provides real-time stock information. The application allows users to view stock data for various symbols and includes a theme toggle feature to switch between light and dark modes.
 
-[Link](https://react-alpha-api-glmp.vercel.app/)
+ Project Link: [`https://react-alpha-api-glmp.vercel.app/`](https://react-alpha-api-glmp.vercel.app/)
 
 ### Features Added
 
